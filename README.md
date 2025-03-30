@@ -8,7 +8,8 @@ I'm **Krydo**, a passionate IT specialist in training, focusing on system integr
 * Currently training as an IT Specialist for System Integration<br>
 * Enthusiastic about Artificial Intelligence, automation, and new technologies<br>
 * Interested in networking, cloud computing, and cybersecurity<br>
-* Always learning and improving my coding & troubleshooting skills
+* Always learning and improving my coding & troubleshooting skills<br>
+* Experimenting with some Homelab and Smarthome-Stuff.
 
 ## Technologies & Tools
 
