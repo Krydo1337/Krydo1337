@@ -13,8 +13,8 @@ I'm **Krydo**, a passionate IT specialist in training, focusing on system integr
 ## Technologies & Tools
 
 * Operating Systems: Linux | Windows | Mac<br>
-* Scripting & Programming: Python | Bash | PowerShell<br>
-* Infrastructure & Cloud: Docker | Virtualization | Networking
+* Scripting & Programming: Python (beginner Skills) | Bash (medium Skills) | PowerShell (beginner Skills)<br>
+* Infrastructure & Cloud: Docker (beginner Skills) | Virtualization (high Skilled) | Networking (medium Skilled)
 
 
 <!---
